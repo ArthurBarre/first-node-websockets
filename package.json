@@ -1,0 +1,29 @@
+{
+  "name": "node-websocket",
+  "version": "1.0.0",
+  "description": "first node websocket",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurBarre/first-node-websockets.git"
+  },
+  "keywords": [
+    "node",
+    "websocket",
+    "server",
+    "JavaScript"
+  ],
+  "author": "MacArthur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurBarre/first-node-websockets.git/issues"
+  },
+  "homepage": "https://github.com/ArthurBarre/first-node-websockets.git#readme",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
